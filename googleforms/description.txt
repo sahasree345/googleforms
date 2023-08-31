@@ -1,0 +1,9 @@
+author:
+A.Sahasrakshee
+sahasree345@gmail.com
+-----------------------------------------
+description:
+google forms clone
+
+frontend:
+web 1.0(HTML & CSS)
